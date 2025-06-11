@@ -1,0 +1,6 @@
+@WSB_project_HostAddress = http://localhost:5101
+
+GET {{WSB_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

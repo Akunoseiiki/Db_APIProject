@@ -1,0 +1,16 @@
+# Created by https://www.toptal.com/developers/gitignore/api/rider
+# ... (cała sekcja dla Ridera, tak jak masz) ...
+.idea/caches/build_file_checksums.ser
+# End of https://www.toptal.com/developers/gitignore/api/rider
+
+
+# --- .NET Build Artifacts ---
+# Ignoruj foldery z wynikami kompilacji i plikami tymczasowymi
+[Bb]in/
+[Oo]bj/
+
+
+# --- Moje własne reguły dla projektu .NET ---
+# Pliki konfiguracyjne z wrażliwymi danymi lub ustawieniami lokalnymi
+appsettings.json
+appsettings.Development.json
