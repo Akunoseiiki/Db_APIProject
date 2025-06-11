@@ -14,3 +14,5 @@
 # Pliki konfiguracyjne z wrażliwymi danymi lub ustawieniami lokalnymi
 appsettings.json
 appsettings.Development.json
+
+*.DotSettings.user
